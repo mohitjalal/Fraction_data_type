@@ -41,10 +41,6 @@ class Fraction:
         #return "{}/{}".format(temp_n,temp_d)
 
 
-class Logarithm:
-
-    def __init__(self,):
-
 a=Fraction(4,5)
 b=Fraction(2,2)
-print(a+b)
+
